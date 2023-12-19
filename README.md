@@ -22,9 +22,9 @@
   <h2>QlikGoogleAnalytics</h2>
 </header>
 
-[Podstrona A](./podstronaA.md)
-[Podstrona B](./podstronaB.md)
-[Podstrona C](./podstronaC.md)
+# [Podstrona A](./podstronaA.md)
+# [Podstrona B](./podstronaB.md)
+# [Podstrona C](./podstronaC.md)
 
 <article>
   <figure>
@@ -36,12 +36,11 @@
       <figcaption>Qlik Sense</figcaption>
   </figure>
   
-  <h2><a href="https://www.put.poznan.pl/rekrutacja">LINK 1</a></h2>
-  <p><a href="https://www.cs.put.poznan.pl/iwpb/site/">LINK 2</a></p>
+  <h2><a href="https://www.onet.pl">LINK 1</a></h2>
+  <p><a href="https://www.wp.pl">LINK 2</a></p>
   
   <p>Strona przeznaczona tylko i wyłącznie do zbierania danych za pomocą Google Analytics 4 i pobierania ich z wykorzystaniem konektora Qlik.</p>
-
-  <div class="addthis_inline_share_toolbox_dhqa"></div>
+  
 </article>
 
 <footer>
