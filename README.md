@@ -22,10 +22,6 @@
   <h2>QlikGoogleAnalytics</h2>
 </header>
 
-# [Podstrona A](./podstronaA.md)
-# [Podstrona B](./podstronaB.md)
-# [Podstrona C](./podstronaC.md)
-
 <article>
   <figure>
       <img src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-ar21.png" alt="Google Analytics 4">
