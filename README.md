@@ -1,3 +1,7 @@
+<!DOCTYPE html>
+<html>
+<head>
+  
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-RF148P2DCB"></script>
 <script>
@@ -8,7 +12,9 @@
   gtag('config', 'G-RF148P2DCB');
 </script>
 
-
+</head>
+<body>
+  
 # QlikGoogleAnalytics
 <link rel="canonical" href="www.jakub-js.github.io/QlikGoogleAnalytics/">
 
@@ -42,3 +48,6 @@
 <footer>
   <p>Autor: JS</p>
 </footer>
+  
+</body>
+</html>
